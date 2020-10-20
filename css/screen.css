@@ -16,14 +16,8 @@ h2 {
   line-height: 1.9;
   font-size: 1.7rem;
   color: #5f5f60;
-  /* font-family: 'Piazzolla', serif; */
 }
 
-h4 {
-  line-height: 2;
-    font-size: 1.5rem;
-    color: #04636d;   
-}
 
 p {
   font-size: 1.2rem;
@@ -36,23 +30,27 @@ img {
 
 a {
   text-decoration: none!important;
-  font-size: 1.5rem;
-  color: #04636d;
+  font-size: 1.2rem;
+  color: #a92d2b;
 }
 
 a:hover {
   color: #6fbecd;
 }
 
-
-/* .title {
-  background-color:#228a9f;
-  margin-bottom: 2rem;
+.welcome {
+  line-height: 2;
 }
 
-.title a {
-  color: white;
-} */
+.jazz {
+  font-size: 1.3rem;
+}
+
+.lead {
+  font-size: 1.5rem;
+  line-height: 1.8;
+}
+
 
 #contact a {
   color: white;
@@ -87,9 +85,13 @@ a:hover {
   font-size: 1.75rem;
 }
 
-/* Preludio */
+/* Preludio Flamenco Video*/
 .pf-bg {
   background-color:#ffd363;
+}
+
+.article {
+  background-color:#fff0c8;
 }
 
 
@@ -109,10 +111,10 @@ a:hover {
 }
 
 @media screen and (max-width: 767px) {
-
+/* 
   .art {
     display: none;
-  }
+  } */
 
   h1 {
     font-size: 2.5rem;

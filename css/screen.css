@@ -85,6 +85,10 @@ a:hover {
   font-size: 1.75rem;
 }
 
+.bf {
+  line-height: 2;
+}
+
 /* Preludio Flamenco Video*/
 .pf-bg {
   background-color:#ffd363;
